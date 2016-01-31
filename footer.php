@@ -3,7 +3,7 @@
         <?php
 
         $args = array(
-            'theme_location' =>'primary'
+            'theme_location' =>'footer'
         );
 
         ?>
